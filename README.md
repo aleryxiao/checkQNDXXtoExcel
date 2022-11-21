@@ -17,4 +17,4 @@ Caution：
 @AleryXiao
 2022.11.21
 
-constructed with Pysider6
+constructed with Pyside6
